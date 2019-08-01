@@ -17,7 +17,7 @@ This specification defines the SIOP DID AuthN flavor to use OpenID Connect (OIDC
 
 ## Encrypted Envelope
 
-This concept is borrowed from the HL Aries to create a standardized means of authenticated general message passing between DID controllers. DIF provides an implementation of pack/unpack that intends to meet the requirements of the DIF community.
+This concept is borrowed from the HL Aries project to create a standardized means of authenticated general message passing between DID controllers. DIF provides an implementation of pack/unpack that intends to meet the requirements of the DIF community.
 
 - Status: **PROPOSAL**
 - Use Case: Secure communication between DID controllers.
