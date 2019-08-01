@@ -21,5 +21,5 @@ This concept is borrowed from the HL Aries project to create a standardized mean
 
 - Status: **PROPOSAL**
 - Use Case: Secure communication between DID controllers.
-- [Explainer](https://github.com/hyperledger/aries-rfcs/blob/master/features/0019-encryption-envelope/README.md)
+- [HL Aries Explainer](https://github.com/hyperledger/aries-rfcs/blob/master/features/0019-encryption-envelope/README.md)
 - [Repo](https://github.com/decentralized-identity/DIDComm-js)
