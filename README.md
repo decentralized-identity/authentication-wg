@@ -1,8 +1,8 @@
 # Authentication Working Group
 
-Join this group to contribute to standards and technology that designs and implements authentication protocols that rely upon open standards and cryptographic protocols, including DIDs and DID Documents. This group develops specifications, protocols, and formats for data structures used for authentication. 
+Join this group to contribute to standards and technology that designs and implements authentication protocols that rely upon open standards and cryptographic protocols, including DIDs and DID Documents. This group develops specifications, protocols, and formats for data structures used for authentication.
 
-The active work items that are underway in the DIF Authentication Working Group
+Get in touch with us on DIF Slack: `#wg-auth`.
 
 ## DID Authentication Profile for SIOP
 
