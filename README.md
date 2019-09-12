@@ -13,7 +13,7 @@ This specification defines the SIOP DID AuthN flavor to use OpenID Connect (OIDC
 - Status: **DRAFT**, **WIP**
 - Use Case: Use your identity wallet to authenticate against a Web Application
 - [Explainer](https://github.com/decentralized-identity/papers/blob/master/did-authn/siop/did-authn-siop-profile.md)
-- [Repo](https://github.com/decentralized-identity/papers/blob/master/did-authn/siop/did-authn-siop-profile.md)
+- [Repo](https://github.com/decentralized-identity/did-siop)
 
 ## Encrypted Envelope
 
